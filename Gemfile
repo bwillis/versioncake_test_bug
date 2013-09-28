@@ -20,7 +20,7 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
-gem 'versioncake', "~> 1.1.0"
+gem 'versioncake', :github => 'bwillis/versioncake'
 gem 'jbuilder'
 #gem "rabl"
 
